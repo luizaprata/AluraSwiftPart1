@@ -24,6 +24,7 @@
 		30E95AD323FB53630079887D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30E95AD623FB53630079887D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30E95AD823FB53630079887D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30E95ADF23FB63FA0079887D /* VariaveisFuncoesPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariaveisFuncoesPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 				30E95ACE23FB53620079887D /* ViewController.swift */,
 				30E95AD023FB53620079887D /* Main.storyboard */,
 				30E95AD323FB53630079887D /* Assets.xcassets */,
+				30E95ADF23FB63FA0079887D /* VariaveisFuncoesPlayground.playground */,
 				30E95AD523FB53630079887D /* LaunchScreen.storyboard */,
 				30E95AD823FB53630079887D /* Info.plist */,
 			);

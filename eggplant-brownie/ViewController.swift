@@ -10,9 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    @IBOutlet weak var nomeTextField: UITextField!
+    @IBOutlet weak var felicidadeTextField: UITextField!
+    @IBAction func adicionar(){
+        let alimento: String = nomeTextField.text ?? "";
+        let felicidade: String  = felicidadeTextField.text ?? "";
+        print("alimento: \(alimento) = \(felicidade)");
     }
 
 
